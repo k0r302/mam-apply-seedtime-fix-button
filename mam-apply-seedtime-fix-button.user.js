@@ -6,7 +6,7 @@
 // @homepageURL https://github.com/k0r302/mam-apply-seedtime-fix-button
 // @match       https://www.myanonamouse.net/snatch_summary.php*
 // @grant       none
-// @version     1.0
+// @version     1.0.0
 // @author      k0r302
 // @license      MIT
 // @description 5/2/2025, 12:02:40 AM
